@@ -1,8 +1,8 @@
 #Pre-requisite - Get base URL and other necessary attributes
 
-excel_file_path: "/Users/ameyao/Downloads/cws_builder/cws_info_gathering.xlsx"
-yaml_file_path: "/Users/ameyao/Downloads/cws_builder/"
-vco_url: "https://vco301-syd1.velocloud.net"
+excel_file_path: "/Users/<USER>/Downloads/cws_builder/cws_info_gathering.xlsx"
+yaml_file_path: "/Users/<USER>/Downloads/cws_builder/"
+vco_url: "https://<VCO URL>"
 security_policy_api_path: "/api/cws/v1/enterprises/"
-enterpriseLogicalId: "5107f901-5532-438f-ac81-38be02937572"
-api_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlblV1aWQiOiJjOWYwY2MyMC03NzAwLTQwZmQtODE5Yi1lOGQ0MTE2ZWUyMzkiLCJleHAiOjE3MTg4NjkzODcsInV1aWQiOiJhYTU4MjRkZC0yMzliLTExZTktOGI2Zi0wMmJhYzY0MmNiZDgiLCJpYXQiOjE2ODczMzMzODl9.HwYb1_iaDUli532lg335NlwAd5BAD9zsSRuIK_YukqQ"
+enterpriseLogicalId: "Enterprise logical UUID"
+api_token: "Specify API token"
